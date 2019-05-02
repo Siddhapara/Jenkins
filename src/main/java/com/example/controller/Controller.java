@@ -8,6 +8,6 @@ public class Controller {
 
 	@GetMapping("/getMessage")
 	public String getMessage() {
-		return "how are you doing";
+		return "how are you doing...";
 	}
 }
